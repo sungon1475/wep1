@@ -1,0 +1,29 @@
+h1{
+   font-size: 60px;
+   color: deeppink;
+   text-align: center;
+   border-bottom: 1px solid black;
+   margin: 0px;
+   padding : 20px;
+   display: block;
+}
+
+h2{
+    font-size: 20px;
+}
+
+
+ol{
+    
+    width: 100px;
+    text-align: left;
+    border-right: 1px solid black ;
+    padding: 20px;
+    margin: 0px;
+}
+
+#fuck{    
+    display: grid;
+    grid-template-columns: 150px 1fr;
+}
+
